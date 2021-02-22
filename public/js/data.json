@@ -1,0 +1,134 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] , 
+    "profileSkills" : [
+        {
+            "id" : 1 ,
+            "title" : "React js" ,
+            "presentag" : "100%"
+        } , 
+
+        {
+            "id" : 2 ,
+            "title" : "JavaScript" ,
+            "presentag" : "90%"
+        } ,
+        
+        {
+            "id" : 3 ,
+            "title" : "HTML5 , CSS3 " ,
+            "presentag" : "80%"
+        } 
+          
+    ]    , 
+    
+    "profileInfo"  : [
+        {
+            "id" : 1 ,
+            "title" : "Name" ,
+            "presentag" : "Mohamed Ahmed"
+        } , 
+
+        {
+            "id" : 2 ,
+            "title" : "Birthday" ,
+            "presentag" : "26/12/1994"
+        } ,
+        {
+            "id" : 3 ,
+            "title" : "Address" ,
+            "presentag" : "Elmahalla-Elkoubra"
+        } ,
+        
+        {
+            "id" : 4 ,
+            "title" : "Phone" ,
+            "presentag" : "01099383905"
+        } ,
+
+        {
+            "id" : 5 ,
+            "title" : "Email" ,
+            "presentag" : "mohamed.ahmed8412000@gmail.com"
+        },
+
+        {
+            "id" : 6 ,
+            "title" : "Website" ,
+            "presentag" : "www.google.com"
+        }
+    ]
+}
